@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopupAlert_EmaildanPassword_harus_diisi</name>
+   <tag></tag>
+   <elementGuidId>b2a25abc-b231-4186-833b-4eb80b634f48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.app-alert.alert.alert-danger.alert-dismissable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b89b4254-198d-42a8-ac6a-8814640a064c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>106a8b42-4b91-4624-943b-3ab398dd51c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-alert alert alert-danger alert-dismissable</value>
+      <webElementGuid>dc4dc42e-af63-4d30-96ab-1c396916b155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Close alertEmail harus diisi.Password harus diisi.</value>
+      <webElementGuid>b56f1eb7-63a4-4b07-aab8-d8f52a552b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;app-alert alert alert-danger alert-dismissable&quot;]</value>
+      <webElementGuid>8eacc51e-3df6-478d-a958-bc444d1825d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>d7eb47ab-cb6a-4518-8632-3e847b40460b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>5ec75d04-0ae1-407f-a667-9b60fb126f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×Close alertEmail harus diisi.Password harus diisi.' or . = '×Close alertEmail harus diisi.Password harus diisi.')]</value>
+      <webElementGuid>cfb597bc-b44d-4f06-a9e6-5004d9ae086a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Gambar</name>
+   <tag></tag>
+   <elementGuidId>af43fc98-db62-4223-a95f-ba51b369beb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div[3]/div[2]/div/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5117a299-d656-4adb-be25-97f580339589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gallery-button</value>
+      <webElementGuid>e3a8e261-2494-4e7d-b8e6-a3bc584e90a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Gambar</value>
+      <webElementGuid>cadce2e1-46ae-488d-a7ab-8750fb1a8d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;rug&quot;]/div[1]/div[@class=&quot;gallery-content&quot;]/div[@class=&quot;gallery-header&quot;]/button[@class=&quot;gallery-button&quot;]</value>
+      <webElementGuid>19ea9e7c-747d-42d2-bd20-63733a06bbe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div[3]/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>75caa2cf-e258-4063-99ac-88d96daab4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/following::button[1]</value>
+      <webElementGuid>58c28899-6563-4809-ba71-fa7389fb7f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harap pilih'])[18]/following::button[1]</value>
+      <webElementGuid>5fe62ef5-f178-4a32-9aa8-fd96557eea65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Variasi Barang'])[1]/preceding::button[1]</value>
+      <webElementGuid>420e32ba-8d9f-4d46-a3c0-292d48c12aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Variasi'])[1]/preceding::button[1]</value>
+      <webElementGuid>39801589-52cd-4100-94f1-31a64f9d582f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>42ab4595-dffa-4b46-a9e8-21b8121eadc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih Gambar' or . = 'Pilih Gambar')]</value>
+      <webElementGuid>db980af9-13f7-4330-b8a8-769c4e794f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

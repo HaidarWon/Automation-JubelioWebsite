@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newOpsiKat1_PakaianPria</name>
+   <tag></tag>
+   <elementGuidId>eb24cd5b-791f-484c-8091-9e719abcf1b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selectivity-result-item.highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19acd0f7-56fe-448f-b05f-238059184b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectivity-result-item highlight</value>
+      <webElementGuid>7c083300-16c9-41d3-b73b-677c42b965a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>76f473bb-8dd1-4e4b-bb10-9e848682a697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pakaian Pria
+    </value>
+      <webElementGuid>079f9417-f1ee-49d7-86aa-4436a27d8199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9&quot;]/div[1]/div[@class=&quot;col-xs-3&quot;]/div[@class=&quot;selectivity-input open hover&quot;]/div[@class=&quot;selectivity-dropdown has-search-input&quot;]/div[@class=&quot;selectivity-results-container&quot;]/div[@class=&quot;selectivity-result-item highlight&quot;]</value>
+      <webElementGuid>0604da96-14fd-4894-95a6-2a615407d6fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>17e17d36-bdb3-48d7-b8f2-a7377fdce2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Muslim'])[1]/following::div[1]</value>
+      <webElementGuid>df4da472-83cc-47b8-8400-2e7a850da7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronik'])[1]/following::div[2]</value>
+      <webElementGuid>dd1b0f03-0ffd-4d8f-b320-1a7fa1c2e349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakaian Wanita'])[1]/preceding::div[1]</value>
+      <webElementGuid>59ad3a26-8bc8-48f3-a33b-ded7f72d366b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merek'])[1]/preceding::div[2]</value>
+      <webElementGuid>17775a1c-a568-4fea-a1be-31596cd63c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pakaian Pria']/parent::*</value>
+      <webElementGuid>a973c5df-899c-4581-9cdb-9df8a2d38b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+      <webElementGuid>65392ff4-04e7-4b8f-89c6-ebad20b279e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pakaian Pria
+    ' or . = 'Pakaian Pria
+    ')]</value>
+      <webElementGuid>e4439dc1-792b-479d-9dfb-e5a7fa80e73d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

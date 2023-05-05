@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah_Baru</name>
+   <tag></tag>
+   <elementGuidId>8347081e-5fc9-4cfa-86fb-df2f3f8f578a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.m-l-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c74f2549-e297-480b-8eee-f51f388f2ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary m-l-xs</value>
+      <webElementGuid>ebaf96ce-3c15-43e2-8ba4-3b374445984c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Baru</value>
+      <webElementGuid>088fbecb-0fe2-4c99-ad2b-07bae2d231b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;row m-b m-t&quot;]/div[@class=&quot;col-sm-6 col-lg-8&quot;]/div[@class=&quot;pull-right&quot;]/div[1]/button[@class=&quot;btn btn-primary m-l-xs&quot;]</value>
+      <webElementGuid>f323b44a-9a2c-4814-aaae-b66528d1aa5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div/div[2]/div/div/button</value>
+      <webElementGuid>bdcf2e48-d91d-4fa8-bd70-a020dfd4bf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::button[1]</value>
+      <webElementGuid>7d548b64-071a-4386-9ec6-0b8a27be9091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download dari Online'])[1]/following::button[2]</value>
+      <webElementGuid>a8747086-7a53-4c38-aff0-0dd7aa59f67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah baris per halaman'])[1]/preceding::button[1]</value>
+      <webElementGuid>83ecf686-59fe-49b1-841c-0b5fe0a451cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Baru']/parent::*</value>
+      <webElementGuid>254d33df-b695-424b-8ce5-2463fd347c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>90a299ba-8a4d-4cb5-bf25-483dacd2f7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tambah Baru' or . = 'Tambah Baru')]</value>
+      <webElementGuid>06d69614-05cb-4d7d-86e9-bddb937a8475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

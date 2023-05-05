@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ddown_Pilih kategori1</name>
+   <tag></tag>
+   <elementGuidId>574ff075-db83-4537-99bf-c070b28a68e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sort-desc.selectivity-caret</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7fa50034-3f5a-4e4b-a335-8f3f3bd3cd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sort-desc selectivity-caret</value>
+      <webElementGuid>7b6bdc20-e620-4bc6-9037-400adfe89270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9&quot;]/div[1]/div[@class=&quot;col-xs-3&quot;]/div[@class=&quot;selectivity-input hover open&quot;]/div[@class=&quot;selectivity-single-select&quot;]/i[@class=&quot;fa fa-sort-desc selectivity-caret&quot;]</value>
+      <webElementGuid>81779e34-4211-409c-be63-3e37f4c485e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>c376bf20-e5a4-4180-b6f9-1da58b5d6cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>1e281744-00cc-474c-8f95-89641bfb639d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

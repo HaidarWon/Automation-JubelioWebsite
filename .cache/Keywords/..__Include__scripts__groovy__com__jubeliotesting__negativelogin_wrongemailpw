@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "F827A327618ED3D2DB14CC0E92A0AC4D",
+  "keywordClasses": [
+    {
+      "name": "com.jubeliotesting.negativelogin_wrongemailpw",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.jubeliotesting.negativelogin_wrongemailpw",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

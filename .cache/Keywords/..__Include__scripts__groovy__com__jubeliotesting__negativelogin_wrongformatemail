@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "79F57A3882EC29A91E9836035F846BF4",
+  "keywordClasses": [
+    {
+      "name": "com.jubeliotesting.negativelogin_wrongformatemail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

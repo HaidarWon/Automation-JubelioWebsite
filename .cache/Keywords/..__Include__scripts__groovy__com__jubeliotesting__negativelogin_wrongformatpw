@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8ECEA4B31012B243DD4275EB5133AEF4",
+  "keywordClasses": [
+    {
+      "name": "com.jubeliotesting.negativelogin_wrongformatpw",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

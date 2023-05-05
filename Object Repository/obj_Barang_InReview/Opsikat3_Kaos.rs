@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Opsikat3_Kaos</name>
+   <tag></tag>
+   <elementGuidId>2f7f6e2e-240d-4c09-a0c7-04b2ea138807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selectivity-result-item.highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8ae82ee-88c3-4408-b6ac-3e69c771ac2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectivity-result-item highlight</value>
+      <webElementGuid>02e231f1-5b26-4efe-a7c6-b711ff5c8aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id</name>
+      <type>Main</type>
+      <value>18200</value>
+      <webElementGuid>6c3fd520-3d7e-44a3-91bf-98ceba6e869c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kaos
+    </value>
+      <webElementGuid>344f8a93-3a3a-4a5f-9e94-c7d4c6d0a689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9&quot;]/div[1]/div[@class=&quot;col-xs-3&quot;]/div[@class=&quot;selectivity-input hover open&quot;]/div[@class=&quot;selectivity-dropdown has-search-input&quot;]/div[@class=&quot;selectivity-results-container&quot;]/div[@class=&quot;selectivity-result-item highlight&quot;]</value>
+      <webElementGuid>0bb1bb0a-8f37-429f-80e7-6b108a3132ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>b4157b93-8d5a-4d76-a326-7c4bfb30b679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kategori'])[1]/following::div[4]</value>
+      <webElementGuid>a3d69369-801e-4704-8578-326170c32ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atasan'])[1]/following::div[9]</value>
+      <webElementGuid>dd0a7967-4fac-43d0-9160-93ee01bd9c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kaos Polo'])[1]/preceding::div[1]</value>
+      <webElementGuid>32ce6830-52e0-4579-84a7-59812b8cb0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemeja Formal'])[1]/preceding::div[2]</value>
+      <webElementGuid>91ed9eb2-4f32-4079-b5cb-020e8c3a246b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kaos']/parent::*</value>
+      <webElementGuid>170be5ef-f695-4276-a406-0c77f829f184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>6909b92c-aa3d-4219-bc9f-2618ed135f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kaos
+    ' or . = 'Kaos
+    ')]</value>
+      <webElementGuid>b516791d-8787-4a52-9692-380a5f6c3c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
